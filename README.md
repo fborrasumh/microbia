@@ -4,6 +4,8 @@ El laboratorio de microbiología agropecuaria en tu navegador. Aplicación web d
 
 **Usar la app:** https://fborrasumh.github.io/microbia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23669273.svg)](https://doi.org/10.5281/zenodo.23669273)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
